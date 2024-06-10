@@ -44,4 +44,4 @@ This project aims to predict house prices using various features such as lot siz
 - Our final model achieved a score of 0.13742 on Kaggle.
 - Future work may involve experimenting with an ensemble of different models like Lasso, Gradient Boosted Trees, etc., or creating neural network models like CNNs.
 - We also plan to explore better data cleaning and transformation methods to retain valuable information.
-- 
+
